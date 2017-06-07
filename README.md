@@ -6,7 +6,7 @@
 
 ```
 cd $HOME
-git clone https://github.com/VentTM/kenamgold.git
+git clone https://github.com/saadmzed/kenamgold.git
 cd kenamgold
 chmod +x launch.sh
 chmod +x install.sh
