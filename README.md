@@ -6,10 +6,11 @@
 
 ```
 cd $HOME
-git clone https://github.com/VentTM/MagaNot.git
-cd MegaNot
+git clone https://github.com/VentTM/kenamgold.git
+cd kenamgold
 chmod +x launch.sh
-./launch.sh install
+chmod +x install.sh
+./install.sh
 ./launch.sh
 # Enter a phone number & confirmation code.
 ```
